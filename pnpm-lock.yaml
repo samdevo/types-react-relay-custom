@@ -14,10 +14,6 @@ importers:
       '@types/relay-runtime':
         specifier: '*'
         version: 19.0.2
-    devDependencies:
-      '@types/react-relay':
-        specifier: workspace:.
-        version: 'link:'
 
 packages:
 
